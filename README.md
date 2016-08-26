@@ -16,8 +16,10 @@ Please inform us of any inaccuracies or missing works.
 |[Equality in Hyperdoctrines and Comprehension Schema as an Adjoint Functor](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1970-equality-in-hyperdoctrines-and-comprehension-schema-as-an-adjoint-functor.pdf)|1970|
 |[Quantifiers and Sheaves](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1971-quantifiers-and-sheaves.pdf)|1971|
 |[Introduction to Toposes, Algebraic Geometry and Logic (LNM 274)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1971-introduction-to-toposes-algebraic-geometry-and-logic.pdf)|1971|
+|[Theory of Categories over a Base Topos (Perugia Lecture Notes)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1972-perugia-lecture-notes.pdf)|1972|
 |[Metric Spaces Generalized Logic Closed Categories](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1973-metric-spaces-generalized-logic-closed-categories.pdf)|1973|
 |[Introduction to Model Theory & Topoi (LNM 445)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1975-introduction-to-model-theory-and-topoi.pdf)|1975|
+|[Variable Sets Etendu and Variable Structure in Topoi](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1975-variable-sets-etendu-and-variable-structure-in-topoi.pdf)|1975|
 |[Continuously Variable Sets – Algebraic Geometry=Geometric Logic](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1975-continuously-variable-sets-algebraic-geometry--geometric-logic.pdf)|1975|
 |[Variable Quantities and Variable Structures in Topoi](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1976-variable-quantities-and-variable-structures-in-topoi.pdf)|1976|
 |[Toward the Description in a Smooth Topos of the Dynamically Possible Motions and Deformations of a Continuous Body](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1980-toward-the-description-in-a-smooth-topos-of-the-dynamically-possible-motions-and-deformations-of-a-continuous-body.pdf)|1980|
@@ -26,6 +28,7 @@ Please inform us of any inaccuracies or missing works.
 |[State Categories Closed Categories and the Existence of Semi-continuous Entropy Functions](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1984-state-categories-closed-categories-and-the-existence-of-semi-continuous-entropy-functions.pdf)|1984|
 |[Categories of Spaces may not be Generalized Spaces as Exemplified by Directed Graphs](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1986-categories-of-spaces-may-not-be-generalized-spaces-as-exemplified-by-directed-graphs.pdf)|1986|
 |[Taking Categories Seriously](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1986-taking-categories-seriously.pdf)|1986|
+|[On the Complete Lattice of Essential Localizations](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1988-on-the-complete-lattice-of-essential-localizations.pdf)|1988|
 |[Display of Graphics and their Applications Exemplifed by 2 Categories and the Hegelian Taco](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1989-display-of-graphics-and-their-applications-exemplifed-by-2-categories-and-the-hegelian-taco.pdf)|1989|
 |[Qualitative Distinctions Between Some Toposes of Generalized Graphs](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1989-qualitative-distinctions-between-some-toposes-of-generalized-graphs.pdf)|1989|
 |[Intrinsic Co-Heyting Boundaries and the Leibniz Rule in Certain Toposes](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1991-intrinsic-co-heyting-boundaries-and-the-leibniz-rule-in-certain-toposes.pdf)|1991|
@@ -56,9 +59,6 @@ Please inform us of any inaccuracies or missing works.
 |[Core Varieties Extensivity and Rig Geometry](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2008-core-varieties-extensivity-and-rig-geometry.pdf)|2008|
 |[Interview with Jorge Picado](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2008-picado-interview.pdf)|2008|
 |[The Hopf Algebra of Möbius Intervals (with M. Menni)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2010-the-hopf-algebra-of-mobius-intervals.pdf)|2010|
+|[Euler's Continuum Functorially Vindicated](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2011-euler's-continuum-functorially-vindicated.pdf)|2011|
 |[Internal Choice Holds in the Discrete Part of any Cohesive Topos Satisfying Stable Connected Codiscreteness (with M. Menni)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2015-internal-choice-holds-in-the-discrete-part-of-any-cohesive-topos-satisfying-stable-connected-codiscreteness.pdf)|2015|
 |[Birkhoff's Theorem from a Geometric Perspective: A Simple Example](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2016-birkhoffs-theorem-from-a-geometric-perspective-a-simple-example.pdf)|2016|
-
-
-
-
