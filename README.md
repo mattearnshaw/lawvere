@@ -65,6 +65,7 @@ Please inform us of any inaccuracies or missing works.
 |[Open Problems in Topos Theory](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2009-open-problems-in-topos-theory.pdf)|2009|
 |[The Hopf Algebra of Möbius Intervals (with M. Menni)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2010-the-hopf-algebra-of-mobius-intervals.pdf)|2010|
 |[Euler's Continuum Functorially Vindicated](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2011-euler's-continuum-functorially-vindicated.pdf)|2011|
+|What are Foundations of Geometry and Algebra? ([abstract](http://www.math.union.edu/~niefiels/13conference/Web/Abstracts/Lawvere.pdf)) ([video](https://www.youtube.com/watch?v=ZYGyEPXu8as)) ([transcript](http://www.math.union.edu/~niefiels/13conference/Web/Slides/Fifty_Years_of_Functorial_Semantics.pdf))|2013|
 |[Internal Choice Holds in the Discrete Part of any Cohesive Topos Satisfying Stable Connected Codiscreteness (with M. Menni)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2015-internal-choice-holds-in-the-discrete-part-of-any-cohesive-topos-satisfying-stable-connected-codiscreteness.pdf)|2015|
 |[Alexander Grothendieck and the Concept of Space (address at CT15 Aveiro)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2015-alexander-grothendieck-and-the-concept-of-space.pdf)|2015|
 |[Birkhoff's Theorem from a Geometric Perspective: A Simple Example](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/2016-birkhoffs-theorem-from-a-geometric-perspective-a-simple-example.pdf)|2016|
