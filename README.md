@@ -5,7 +5,7 @@ Please inform us of any inaccuracies or missing works.
 | Title |Source| Date |
 |:------|:-----|:----:|
 |[The Category of Probabilistic Mappings – With Applications to Stochastic Processes, Statistics, and Pattern Recognition](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1962-the-category-of-probabilistic-mappings.pdf)|Unpublished; seminar handout notes|1962|
-|Functorial Semantics of Algebraic Theories|Unpublished; Ph.D. thesis, Columbia University, 1963|1963|
+|Functorial Semantics of Algebraic Theories|Original unpublished; Ph.D. thesis, Columbia University, 1963. See extended TAC reprint 2004|1963|
 |[Functorial Semantics of Algebraic Theories (short notice)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1963-functorial-semantics-of-algebraic-theories-(short).pdf)|Proceedings of the National Academy of Science 50, No. 5 (November 1963), 869-872|1963|
 |The convolution ring of a small category|Notices Amer. Math. Soc., 10, 280 (1963); Errata, Notices Amer. Math. Soc., 10, 516|1963|
 |[An Elementary Theory of the Category of Sets (cf. 2005 long version with commentary)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1964-an-elementary-theory-of-the-category-of-sets.pdf)|Proceedings of the National Academy of Science 52, No. 6 (December 1964), 1506-1511|1964|
