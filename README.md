@@ -2,7 +2,7 @@
 
 Please inform us of any inaccuracies or missing works.
 
-| Title |Source| Date |
+| Title |Source| Year |
 |:------|:-----|:----:|
 |[The Category of Probabilistic Mappings – With Applications to Stochastic Processes, Statistics, and Pattern Recognition](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1962-the-category-of-probabilistic-mappings.pdf)|Unpublished; seminar handout notes|1962|
 |Functorial Semantics of Algebraic Theories|Original unpublished; Ph.D. thesis, Columbia University, 1963. See extended TAC reprint 2004|1963|
@@ -27,12 +27,12 @@ Please inform us of any inaccuracies or missing works.
 |[Variable Sets Etendu and Variable Structure in Topoi](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1975-variable-sets-etendu-and-variable-structure-in-topoi.pdf)|Notes by Steven Landsburg of Lectures and Conversations, Spring 1975, University of Chicago|1975|
 |[Continuously Variable Sets – Algebraic Geometry=Geometric Logic](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1975-continuously-variable-sets-algebraic-geometry--geometric-logic.pdf)|Studies in Logic and the Foundations of Mathematics, Volume 80, pp. 135-156|1975|
 |[Variable Quantities and Variable Structures in Topoi](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1976-variable-quantities-and-variable-structures-in-topoi.pdf)|Algebra, topology, and category theory (a collection of papers in honor of Samuel Eilenberg), pp. 101–131|1976|
-|On C-∞ functions|Preprint, State Univ. of New York, Buffalo|1981|
 |[Categorical Dynamics](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1978-categorical-dynamics.pdf)|Proceedings of Aarhus May 1978 Open House on Topos Theoretic Methods in Geometry|1978|
-|Measures on toposes|Proceedings of Aarhus Workshop on Category Theoretic Methods in Geometry|1983|
 |[Toward the Description in a Smooth Topos of the Dynamically Possible Motions and Deformations of a Continuous Body](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1980-toward-the-description-in-a-smooth-topos-of-the-dynamically-possible-motions-and-deformations-of-a-continuous-body.pdf)|Cahiers de Topologie et Géométrie Différentielle Catégoriques, Volume: 21, Issue: 4, pp. 377-392|1980|
+|On C-∞ functions|Preprint, State Univ. of New York, Buffalo|1981|
 |Thermodynamics of deformations of continuous bodies, non homogeneous, with memory, far from equilibrium|Handwritten notes from a seminar held in Trieste|1982|
 |[Introduction to "Categories in Continuum Physics"](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1982-introduction-to-categories-in-continuum-physics.pdf)|Springer Lecture Notes in Mathematics No. 1174, Springer-Verlag (1986)|1982|
+|Measures on toposes|Proceedings of Aarhus Workshop on Category Theoretic Methods in Geometry|1983|
 |[Functorial Remarks on the General Concept of Chaos](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1984-functorial-remarks-on-the-general-concept-of-chaos.pdf)|IMA Research Report #87, University of Minnesota (1986)|1984|
 |[State Categories Closed Categories and the Existence of Semi-continuous Entropy Functions](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1984-state-categories-closed-categories-and-the-existence-of-semi-continuous-entropy-functions.pdf)|IMA Research Report #86, University of Minnesota|1984|
 |[State Categories and Response Functors](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1986-state-categories-and-response-functors.pdf)|Preprint|1986|
