@@ -4,6 +4,7 @@ Please inform us of any inaccuracies or missing works.
 
 | Title |Source| Year |
 |:------|:-----|:----:|
+|[The Language of Algebra: Supplement](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1961-language-of-algebra-supplement.pdf)|TEMAC programmed learning materials|1961|
 |[The Category of Probabilistic Mappings – With Applications to Stochastic Processes, Statistics, and Pattern Recognition](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1962-the-category-of-probabilistic-mappings.pdf)|Unpublished; seminar handout notes|1962|
 |Functorial Semantics of Algebraic Theories|Original unpublished; Ph.D. thesis, Columbia University, 1963. See extended TAC reprint 2004|1963|
 |[Functorial Semantics of Algebraic Theories (short notice)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1963-functorial-semantics-of-algebraic-theories-(short).pdf)|Proceedings of the National Academy of Science 50, No. 5 (November 1963), 869-872|1963|
