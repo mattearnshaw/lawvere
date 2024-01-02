@@ -36,7 +36,7 @@ Please inform us of any inaccuracies or missing works.
 |[Categorical Dynamics](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1978-categorical-dynamics.pdf)|Proceedings of Aarhus May 1978 Open House on Topos Theoretic Methods in Geometry|1978|
 |[Toward the Description in a Smooth Topos of the Dynamically Possible Motions and Deformations of a Continuous Body](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1980-toward-the-description-in-a-smooth-topos-of-the-dynamically-possible-motions-and-deformations-of-a-continuous-body.pdf)|Cahiers de Topologie et Géométrie Différentielle Catégoriques, Volume: 21, Issue: 4, pp. 377-392|1980|
 |On C-∞ functions|Preprint, State Univ. of New York, Buffalo|1981|
-|Thermodynamics of deformations of continuous bodies, non homogeneous, with memory, far from equilibrium|Handwritten notes from a seminar held in Trieste|1982|
+|[Thermodynamics of deformations of continuous bodies, non homogeneous, with memory, far from equilibrium](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1982-termodinamica-delle-deformazioni-per-sistemi-continui.pdf)|Handwritten notes (in Italian) from a seminar held in Trieste|1982|
 |[Review of Cohn, Universal Algebra (second edition)](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1982-review-of-cohn-universal-algebra.pdf)|American Scientist|1982|
 |[Introduction to "Categories in Continuum Physics"](https://github.com/mattearnshaw/lawvere/blob/master/pdfs/1982-introduction-to-categories-in-continuum-physics.pdf)|Springer Lecture Notes in Mathematics No. 1174, Springer-Verlag (1986)|1982|
 |Measures on toposes|Proceedings of Aarhus Workshop on Category Theoretic Methods in Geometry|1983|
